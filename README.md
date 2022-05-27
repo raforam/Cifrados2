@@ -4,7 +4,7 @@
 Esta es una implementación del cifrado simétrico en c++ 
 
 Instrucciones de ejecución:
-* Descargar los archivo 'cifrados2.h' y 'cifradoRRQ.cpp' ejecutar el último (cifradoRRQ.cpp)
+* Descargar los archivo 'cifrados2.h' y 'cifradoRRQ.cpp' en la misma ubicación. Ejecutar el último (cifradoRRQ.cpp)
 * Al ejecutar el programa le pedirá ingresar el mensaje que desee cifrar, ingrese en consola un mensaje sin espacios.
 * Al presionar ENTER se mostrará en pantalla el mensaje ya encriptado y el mensaje descifrado usando el algoritmo correspondiente al cifrado.
 
