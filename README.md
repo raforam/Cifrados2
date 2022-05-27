@@ -10,7 +10,7 @@ Instrucciones de ejecución:
 
 ADVERTENCIA: Dependiendo de donde se ejecute el código (VS2019, VSC, etc) los caracteres con tilde o la letra Ñ no se procesarán correctamente por no usar la codificación UTF-8, para ello se debe sustituir cualquier "Ñ" con el caracter "_" de la misma manera no acepta espacios en los mensajes para cifrarlos por lo que hay que escribir junto todo el texto.
 
-<br/>\
+<br/>
 
 En 'cifrados2.h' encontrará la clase poliAlf con las funciones necesarias para que funcione el código
 
